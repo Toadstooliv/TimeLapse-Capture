@@ -1,0 +1,11 @@
+PNG Resources
+
+Info About format:http://www.libpng.org/pub/png/spec/1.2/PNG-Structure.html
+
+Java Jpeg to Jmpeg example:https://github.com/lessthanoptimal/BoofCV/blob/master/main/io/src/boofcv/io/video/CreateMJpeg.java
+
+Capture info:
+http://stackoverflow.com/questions/19843050/increasing-screen-capture-speed-when-using-java-and-awt-robot
+http://stackoverflow.com/questions/2912007/how-to-take-screenshots-fast-in-java/4843247#4843247
+http://stackoverflow.com/questions/13773870/how-to-get-over-30fps-using-java-in-a-screen-capture-program
+http://stackoverflow.com/questions/24668407/how-to-take-a-screenshot-of-desktop-fast-with-java-in-windows-ffmpeg-etc
